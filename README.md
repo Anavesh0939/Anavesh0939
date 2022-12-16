@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://Anavesh0939.io)
 <h1 align="center">Hi 👋, I'm Anavesh Vishwakarma</h1>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/xTiTngBQncyTMceuXK/giphy.gif")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
