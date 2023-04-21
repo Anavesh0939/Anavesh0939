@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://Anavesh0939.io)
+[![MasterHead](https:)](https://Anavesh0939.io)
 <h1 align="center">Hi 👋, I'm Anavesh Vishwakarma</h1>
 
 
