@@ -1,4 +1,4 @@
-[![MasterHead](https:)](https://Anavesh0939.io)
+
 <h1 align="center">Hi 👋, I'm Anavesh Vishwakarma</h1>
 
 
